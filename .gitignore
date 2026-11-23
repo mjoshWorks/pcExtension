@@ -1,0 +1,6 @@
+# node
+node_modules/
+
+# phone-side artifacts (produced on-device, never committed)
+price_log.csv
+dump_*.txt
